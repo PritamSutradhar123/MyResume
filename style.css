@@ -1,0 +1,49 @@
+h1{
+    font-size: 3rem;
+    text-align: center;
+    margin: 0%;
+    
+}
+h3{
+    text-align: center;
+    font-weight: 900;
+}
+.para{
+    text-align: center;
+}
+html{
+    
+    position: relative;
+    margin: 0%;
+    background-color: #F2EFE7;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+
+#links{
+    position: relative;
+    text-align: center;
+    margin: 10px;
+}
+.sections{
+    border-radius: 20px;
+    margin: 10px;
+    position: relative;
+    padding-top:1px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1px;
+
+    background-color:  #9ACBD0;
+
+}
+a[draggable="true"]{
+    margin: 10px;
+}
+
+b{
+    color: rebeccapurple;
+}
+hr{
+    margin: 10px;
+}
