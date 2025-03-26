@@ -16,14 +16,20 @@ html{
     position: relative;
     margin: 0%;
     background-color: #F2EFE7;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:  Verdana;
     font-weight: 800;
+    font-size:medium;
 }
 
 #links{
     position: relative;
     text-align: center;
     margin: 10px;
+}
+.footer{
+    text-align: center;
+    font-size:smaller;
+    
 }
 .sections{
     border-radius: 20px;
